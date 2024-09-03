@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cloudtruss.peopledb_web.biz.model.PersonTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-09-01T17:03:37" hostname="Courages-MBP.broadband" time="0.009">
+  <properties/>
+  <testcase name="canParsePerson()" classname="com.cloudtruss.peopledb_web.biz.model.PersonTest" time="0.009">
+    <failure message="java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 1" type="java.lang.ArrayIndexOutOfBoundsException">java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 1
+	at com.cloudtruss.peopledb_web.biz.model.Person.parse(Person.java:52)
+	at com.cloudtruss.peopledb_web.biz.model.PersonTest.canParsePerson(PersonTest.java:13)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

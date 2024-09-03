@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca43c967-5320-4eb1-a524-d6b4d4b593c0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bdcc6nd37zMq9yqlKcCtMnAYSN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaOfCircle.executor": "Run",
+    "Application.ArrayDemo.executor": "Run",
+    "Application.BigDecimal.executor": "Run",
+    "Application.BigDecimals.executor": "Run",
+    "Application.CalculateCentripetalForce.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.ClassA.executor": "Run",
+    "Application.ComparingNumbers.executor": "Run",
+    "Application.CompoundInterestCalc.executor": "Run",
+    "Application.GuessItGame.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.LearnComparingTwoStrings.executor": "Run",
+    "Application.LearnConditionals.executor": "Run",
+    "Application.LearnNumDataTypes.executor": "Run",
+    "Application.LearnRegexPart1.executor": "Run",
+    "Application.LearnRegexPart2.executor": "Run",
+    "Application.LearnRegexPart3.executor": "Run",
+    "Application.LearnRegexPart4.executor": "Run",
+    "Application.LearnSplit.executor": "Run",
+    "Application.LearnStringBuilder.executor": "Run",
+    "Application.LearnStrings.executor": "Run",
+    "Application.LearnSubstring.executor": "Run",
+    "Application.LearnSubstringAndIndexOf.executor": "Run",
+    "Application.MathOperations.executor": "Run",
+    "Application.MethodDemo.executor": "Run",
+    "Application.NumericWrapper.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.TestPlayground.executor": "Run",
+    "Application.TranscriptParser.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/courage/Desktop/JavaTraining",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/courage/Desktop/JavaTraining/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="control.flow" />
+      <recent name="model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/classes/objects/methods" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="numbers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LearnRegexPart4">
+    <configuration name="CalculateCentripetalForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.CalculateCentripetalForce" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessItGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.flow.GuessItGame" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.flow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnRegexPart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regular.expression.LearnRegexPart4" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regular.expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumericWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.NumericWrapper" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlayground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.flow.TestPlayground" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.flow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LearnRegexPart4" />
+        <item itemvalue="Application.GuessItGame" />
+        <item itemvalue="Application.TestPlayground" />
+        <item itemvalue="Application.NumericWrapper" />
+        <item itemvalue="Application.CalculateCentripetalForce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca43c967-5320-4eb1-a524-d6b4d4b593c0" name="Changes" comment="" />
+      <created>1706548473141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706548473141</updated>
+      <workItem from="1706548474372" duration="9456000" />
+      <workItem from="1706891129844" duration="2445000" />
+      <workItem from="1708094824920" duration="1584000" />
+      <workItem from="1708100954207" duration="11731000" />
+      <workItem from="1708704369124" duration="4548000" />
+      <workItem from="1708961408799" duration="734000" />
+      <workItem from="1709026663789" duration="939000" />
+      <workItem from="1709564547268" duration="5699000" />
+      <workItem from="1709902015849" duration="5007000" />
+      <workItem from="1710161517856" duration="14692000" />
+      <workItem from="1710408843845" duration="598000" />
+      <workItem from="1711381988025" duration="5259000" />
+      <workItem from="1711959199316" duration="10986000" />
+      <workItem from="1712051610321" duration="1829000" />
+      <workItem from="1712330689504" duration="5812000" />
+      <workItem from="1712738174508" duration="599000" />
+      <workItem from="1712759420077" duration="598000" />
+      <workItem from="1712827194043" duration="615000" />
+      <workItem from="1712928636785" duration="9297000" />
+      <workItem from="1713429160141" duration="1200000" />
+      <workItem from="1713455850528" duration="598000" />
+      <workItem from="1713771602574" duration="25640000" />
+      <workItem from="1714401917356" duration="8495000" />
+      <workItem from="1714555422250" duration="17104000" />
+      <workItem from="1715159037979" duration="599000" />
+      <workItem from="1715180986019" duration="599000" />
+      <workItem from="1715595465605" duration="16000" />
+      <workItem from="1715702104312" duration="15506000" />
+      <workItem from="1716285759498" duration="1136000" />
+      <workItem from="1717057161333" duration="2814000" />
+      <workItem from="1717072492560" duration="148000" />
+      <workItem from="1717072654480" duration="4635000" />
+      <workItem from="1717772591440" duration="683000" />
+      <workItem from="1719161438257" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

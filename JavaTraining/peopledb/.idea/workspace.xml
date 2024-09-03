@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2d7f0ce-f6d3-462e-80f2-7951fa395f34" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PeopleDB" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kVe1Q3obujMcuQCS73QVzAM2YJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build PeopleDB.executor": "Run",
+    "Gradle.PeopleDB [:Person.main()].executor": "Run",
+    "Gradle.PeopleRepositoryTest.canDeleteMultiplePersons.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canDeleteMultiplePersonsAtOnce.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canDeletePerson.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canFindAllPersons.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canFindPersonById.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canGetCount.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canSave.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canSaveOnePerson.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canSavePersonWithOneAddress.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canSaveTwoPersons.executor": "Run",
+    "Gradle.PeopleRepositoryTest.canUpdatePerson.executor": "Run",
+    "Gradle.PeopleRepositoryTest.executor": "Run",
+    "Gradle.PeopleRepositoryTest.loadData.executor": "Run",
+    "Gradle.PeopleRepositoryTest.testPersonIdNotFound.executor": "Run",
+    "Gradle.PersonTest.testForEquality.executor": "Run",
+    "Gradle.PersonTest.testForInequality.executor": "Run",
+    "Gradle.personRepositoryTest.canFindAllPersons.executor": "Run",
+    "Gradle.personRepositoryTest.canFindPersonByIdWithAddress.executor": "Run",
+    "Gradle.personRepositoryTest.canFindPersonByIdWithChildren.executor": "Run",
+    "Gradle.personRepositoryTest.canFindPersonByIdWithHomeAddress.executor": "Debug",
+    "Gradle.personRepositoryTest.canFindPersonByIdWithWorkAddress.executor": "Run",
+    "Gradle.personRepositoryTest.canSavePersonWithChildren.executor": "Run",
+    "Gradle.personRepositoryTest.canSavePersonWithHomeAddress.executor": "Run",
+    "Gradle.personRepositoryTest.executor": "Run",
+    "JUnit.personRepositoryTest.canDeleteMultiplePersons.executor": "Run",
+    "JUnit.personRepositoryTest.canDeleteMultiplePersons2.executor": "Run",
+    "JUnit.personRepositoryTest.canFindAllPersons.executor": "Run",
+    "JUnit.personRepositoryTest.canFindPersonById.executor": "Debug",
+    "JUnit.personRepositoryTest.canFindPersonByIdWithAddress.executor": "Run",
+    "JUnit.personRepositoryTest.canGetCount.executor": "Run",
+    "JUnit.personRepositoryTest.canSavePersonWithHomeAddress.executor": "Run",
+    "JUnit.personRepositoryTest.canSavePersonWithPhoneNumber.executor": "Run",
+    "JUnit.personRepositoryTest.canSavePersonWithWorkAddre.executor": "Run",
+    "JUnit.personRepositoryTest.canSavePersonWithWorkAddress.executor": "Run",
+    "JUnit.personRepositoryTest.canSaveTwoPersons.executor": "Run",
+    "JUnit.personRepositoryTest.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/courage/Desktop/JavaTraining/peopledb/src/main/java/com/cloudtruss/peopledb/repository",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/courage/Desktop/JavaTraining/peopledb/src/main/java/com/cloudtruss/employee/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cloudtruss.peopledb.model" />
+      <recent name="com.cloudtruss.peopledb.annotation" />
+      <recent name="com.cloudtruss.peopledb.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.cloudtruss.peopledb.model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cloudtruss.peopledb.exception" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cloudtruss.peopledb.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.personRepositoryTest">
+    <configuration name="personRepositoryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudtruss.peopledb.repository.personRepositoryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="personRepositoryTest.canFindAllPersons" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudtruss.peopledb.repository.personRepositoryTest.canFindAllPersons&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="personRepositoryTest.canFindPersonByIdWithChildren" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudtruss.peopledb.repository.personRepositoryTest.canFindPersonByIdWithChildren&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="personRepositoryTest.canFindPersonByIdWithHomeAddress" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudtruss.peopledb.repository.personRepositoryTest.canFindPersonByIdWithHomeAddress&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="personRepositoryTest.canFindPersonByIdWithWorkAddress" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudtruss.peopledb.repository.personRepositoryTest.canFindPersonByIdWithWorkAddress&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.personRepositoryTest" />
+      <item itemvalue="Gradle.personRepositoryTest.canFindAllPersons" />
+      <item itemvalue="Gradle.personRepositoryTest.canFindPersonByIdWithChildren" />
+      <item itemvalue="Gradle.personRepositoryTest.canFindPersonByIdWithHomeAddress" />
+      <item itemvalue="Gradle.personRepositoryTest.canFindPersonByIdWithWorkAddress" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.personRepositoryTest" />
+        <item itemvalue="Gradle.personRepositoryTest.canFindAllPersons" />
+        <item itemvalue="Gradle.personRepositoryTest.canFindPersonByIdWithWorkAddress" />
+        <item itemvalue="Gradle.personRepositoryTest.canFindPersonByIdWithHomeAddress" />
+        <item itemvalue="Gradle.personRepositoryTest.canFindPersonByIdWithChildren" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d7f0ce-f6d3-462e-80f2-7951fa395f34" name="Changes" comment="" />
+      <created>1723372958639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723372958639</updated>
+      <workItem from="1723372959669" duration="29807000" />
+      <workItem from="1723659085282" duration="47926000" />
+      <workItem from="1724054757527" duration="9780000" />
+      <workItem from="1724106584325" duration="2475000" />
+      <workItem from="1724109069141" duration="42865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudtruss/employee/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cloudtruss/peopledb/repository/personRepositoryTest.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cloudtruss/peopledb/repository/personRepositoryTest.java</url>
+          <line>129</line>
+          <properties class="com.cloudtruss.peopledb.repository.personRepositoryTest" method="canSavePersonWithChildren">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="resultSet.getMetaData().getColumnLabel(columnIndex)" />
+        <watch expression="resultSet.getObject(columnIndex)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

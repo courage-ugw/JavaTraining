@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6a4bc0d-4288-4511-8c92-bcf7885bc366" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jJdoKadL25aJjCpKDrq4pZhv9f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.KnightTest.executor": "Profiler#1",
+    "JUnit.KnightTest.knightCanMoveSouthEast.executor": "Run",
+    "JUnit.PawnTest.executor": "Run",
+    "JUnit.PawnTest.pawnCanMoveOneForward.executor": "Run",
+    "JUnit.PawnTest.pawnCanMoveTwoForwardOnFirstMove.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/courage/Desktop/JavaTraining/ChessBoardGame/src/main/java/com/cloudtruss/employee/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.KnightTest">
+    <configuration name="KnightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChessBoardGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudtruss.chessboard.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudtruss.chessboard.game" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudtruss.chessboard.game.KnightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnightTest.knightCanMoveSouthEast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChessBoardGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudtruss.chessboard.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudtruss.chessboard.game" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudtruss.chessboard.game.KnightTest" />
+      <option name="METHOD_NAME" value="knightCanMoveSouthEast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChessBoardGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudtruss.chessboard.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudtruss.chessboard.game" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudtruss.chessboard.game.PawnTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest.pawnCanMoveOneForward" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChessBoardGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudtruss.chessboard.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudtruss.chessboard.game" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudtruss.chessboard.game.PawnTest" />
+      <option name="METHOD_NAME" value="pawnCanMoveOneForward" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest.pawnCanMoveTwoForwardOnFirstMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChessBoardGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudtruss.chessboard.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudtruss.chessboard.game" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudtruss.chessboard.game.PawnTest" />
+      <option name="METHOD_NAME" value="pawnCanMoveTwoForwardOnFirstMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KnightTest" />
+        <item itemvalue="JUnit.PawnTest" />
+        <item itemvalue="JUnit.PawnTest.pawnCanMoveTwoForwardOnFirstMove" />
+        <item itemvalue="JUnit.PawnTest.pawnCanMoveOneForward" />
+        <item itemvalue="JUnit.KnightTest.knightCanMoveSouthEast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a4bc0d-4288-4511-8c92-bcf7885bc366" name="Changes" comment="" />
+      <created>1721109288533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721109288533</updated>
+      <workItem from="1721109289509" duration="18368000" />
+      <workItem from="1721972577374" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/cloudtruss/chessboard/game/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
